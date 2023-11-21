@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.container {
+    max-width: 400px;
+    margin: 70px auto;
+    padding: 30px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
